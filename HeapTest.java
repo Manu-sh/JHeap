@@ -4,7 +4,7 @@ import java.util.Queue;
 
 class HeapTest {
 
-
+	// code duplication, just for test, im lazy
 	public static double pqueue(int[] set) {
 
 		double start = System.currentTimeMillis();
